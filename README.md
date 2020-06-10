@@ -4,7 +4,8 @@
 ## Tribute Page V1
 
 >Tribute page for underground and groundbreaking artists - Hernandez Bros(HTML/CSS/Bootstrap)</br>
-https://codepen.io/SeePetulaCode/full/gRgjLj
+web: https://codepen.io/SeePetulaCode/full/gRgjLj
+code: https://gist.github.com/SeePetulaCode/a282d9e8aec5bcaf32bf06403d5ae315
 <hr>
 
 ## Tribute Page V2
